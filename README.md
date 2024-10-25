@@ -1,1 +1,1 @@
-Cột sống em ổn không ?
+Tao muốn đổi ngành 
