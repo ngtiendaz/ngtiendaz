@@ -1,1 +1,2 @@
-Tao muốn đổi ngành 
+Tao muốn bỏ học
+
