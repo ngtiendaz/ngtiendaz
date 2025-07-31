@@ -1,2 +1,1 @@
-Tao muốn bỏ học
-
+Nothing gonna fucking stop me.
