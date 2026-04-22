@@ -22,6 +22,16 @@
 
 ## 🚀 Projects
 
+### 🎧 Music Streaming App
+> A real-time music app focused on performance and user experience
+
+- 🎵 Stream music from API (ZingMP3 / custom API)  
+- ⚡ Full playback control (play, pause, seek, background play)  
+- 💾 Caching & optimized data loading  
+- 📡 Real-time state handling for audio player  
+- 🧠 Structured with clean architecture / MVVM
+[View Project]([https://github.com/yourusername/your-repo](https://github.com/ngtiendaz/Soundtify))
+
 ### 🔥 NutriX App
 > AI-powered nutrition assistant
 
