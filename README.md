@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Đạt  
+# 👋 Hi, I'm Daz  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mobile+Developer;iOS+Enthusiast;Flutter+Engineer;Building+AI-powered+Apps&center=true&width=500&height=50)
 
